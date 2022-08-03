@@ -18,9 +18,9 @@ class WebAppBar extends StatelessWidget {
           const SizedBox(width: 20.0),
           SizedBox(
             height: 38.0,
-            child: OutlineButton(
+            child: OutlinedButton(
               onPressed: () {},
-              borderSide: BorderSide(color: Colors.white, width: 2.0),
+              // borderSide: BorderSide(color: Colors.white, width: 2.0),
               child: Text(
                 'Fzer Login ',
                 style: TextStyle(
