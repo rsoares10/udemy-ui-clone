@@ -8,3 +8,11 @@
     <img height="280" src="readme-images/full-screen.png">
     <img height="280" src="readme-images/small-screen.png">
 </p>
+
+https://rsoares10-flutter.github.io/udemy-ui-clone/
+
+<!--Page gh-pages deploy link section-->
+
+# Interactive test
+
+<p> You can check the resulting clone interactively <a href="https://rsoares10-flutter.github.io/udemy-ui-clone/">here</a></p>
