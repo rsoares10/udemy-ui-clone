@@ -9,8 +9,6 @@
     <img height="280" src="readme-images/small-screen.png">
 </p>
 
-https://rsoares10-flutter.github.io/udemy-ui-clone/
-
 <!--Page gh-pages deploy link section-->
 
 # Interactive test
