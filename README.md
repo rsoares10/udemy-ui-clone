@@ -13,4 +13,4 @@
 
 # Interactive test
 
-<p> You can check the resulting clone interactively <a href="https://rsoares10-flutter.github.io/udemy-ui-clone/">here</a></p>
+<p> You can check the resulting clone interactively <a href="https://rsoares10-flutter.github.io/udemy-ui-clone/">here</a>.</p>
