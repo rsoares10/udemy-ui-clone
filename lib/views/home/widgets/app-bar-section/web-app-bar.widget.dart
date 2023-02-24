@@ -34,9 +34,9 @@ class WebAppBar extends StatelessWidget {
           ),
           SizedBox(
             height: 40.0,
-            child: RaisedButton(
+            child: ElevatedButton(
               onPressed: () {},
-              color: Colors.white,
+              // color: Colors.white,
               child: Text(
                 'Cadastre-se',
                 style: TextStyle(color: Colors.black),

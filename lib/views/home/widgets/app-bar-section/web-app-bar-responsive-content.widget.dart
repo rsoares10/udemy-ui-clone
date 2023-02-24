@@ -42,7 +42,7 @@ class WebAppBarResponsiveContent extends StatelessWidget {
                 const SizedBox(
                   width: 32.0,
                 ),
-                FlatButton(
+                ElevatedButton(
                   onPressed: () {},
                   child: Text(
                     'Aprender',
@@ -54,7 +54,7 @@ class WebAppBarResponsiveContent extends StatelessWidget {
                 const SizedBox(
                   width: 8.0,
                 ),
-                FlatButton(
+                ElevatedButton(
                   onPressed: () {},
                   child: Text(
                     'Aprender',
